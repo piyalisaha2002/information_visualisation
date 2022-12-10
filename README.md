@@ -1,13 +1,16 @@
 # information_visualisation_-IPL-analysis
 Cricket is one of the famous outdoor sports that contain a large set of statistical data in real
 world. As IPL games rise in popularity, it is necessary to examine the possible predictors that
-affect the outcome of the matches. The project aims at analysing the IPL cricket match results
+affect the outcome of the matches. 
+
+The project aims at analysing the IPL cricket match results
 from the dataset collected (2008-2017) . Analysis of structured data has seen tremendous
 success in the past. However, analysis of large scale unstructured data to perform
 predictions remains a challenging area. The Indian Premier League (IPL) is a T20
 cricket league tournament held in India contested during April and May of every year where
-top players from all over the world take part. The IPL is the most-attended cricket
-league in the world and ranks sixth among all sports leagues. The idea is to analyse the IPL
+top players from all over the world take part.
+
+The IPL is the most-attended cricket league in the world and ranks sixth among all sports leagues. The idea is to analyse the IPL
 data hosted by Kaggle to come up with something interesting and useful. We have
 used various graphs and plots for doing this analysis. The project utilizes the IPL datasets that
 allows analyst to incorporate functions that are used by IPL application to fetch and view
